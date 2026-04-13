@@ -10,9 +10,6 @@
 
 ---
 
-![SafeRoute KW screenshot](assets/screenshot.png)
-
----
 
 ## What It Does
 
