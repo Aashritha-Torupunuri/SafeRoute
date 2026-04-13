@@ -90,6 +90,6 @@ Collision records are sourced from the **[City of Kitchener Open Data portal](ht
 
 **Ajay Kular** · (https://github.com/ajaykular)
 
-**AashrithaTorupunuri** . (https://github.com/Aashritha-Torupunuri)
+**Aashritha Torupunuri** . (https://github.com/Aashritha-Torupunuri)
 
 Built at **[Hack to the Future](https://lauriercs.ca/hack-to-the-future)** — Laurier Computing Society · March 2026
